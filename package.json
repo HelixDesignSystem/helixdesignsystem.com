@@ -1,0 +1,21 @@
+{
+  "name": "helixdesignsystem.com",
+  "version": "0.0.1",
+  "description": "Documentation for the Rackspace design system (Helix)",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "echo \"make me a website\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelixDesignSystem/helixdesignsystem.com.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/HelixDesignSystem/helixdesignsystem.com/issues"
+  },
+  "homepage": "https://github.com/HelixDesignSystem/helixdesignsystem.com#readme"
+}
